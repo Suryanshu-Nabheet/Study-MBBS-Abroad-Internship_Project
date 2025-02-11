@@ -9,6 +9,7 @@ A modern, fully responsive landing page for students seeking MBBS programs abroa
 🔗 **Website Link**: [Add your deployed site URL here]  
 
 📁 **GitHub Repository**: [https://github.com/Suryanshu-Nabheet/Study-MBBS-Abroad-Internship_Project]  
+📁 **Github Repository**: FOR SAME PROJECT BUILD IN TYPE SCRIPT []
 
 ---
 ## 🚀 Technologies & Skills  
