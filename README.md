@@ -46,8 +46,6 @@ A modern, fully responsive landing page for students seeking MBBS programs abroa
 | **Vite** | Fast build tool for optimizing performance |  
 | **JavaScript (ES6+)** | Core scripting and interactivity |  
 | **TypeScript** | Type safety and better code quality |  
-| **Google Analytics** | User activity tracking |  
-| **Facebook Pixel** | Ad performance and marketing tracking |  
 
 ---
 
