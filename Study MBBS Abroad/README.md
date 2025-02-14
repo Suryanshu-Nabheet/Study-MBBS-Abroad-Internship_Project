@@ -3,14 +3,6 @@
 A modern, fully responsive landing page for students seeking MBBS programs abroad. This project highlights **top destinations, benefits, admission processes, and a lead generation form** to assist students in making informed decisions.  
 
 ---
-
-## 🚀 Live Demo  
-
-🔗 **Website Link**: [Add your deployed site URL here]  
-
-📁 **GitHub Repository**: [Repository URL]  
-
----
 ## 🚀 Technologies & Skills  
 
 ### **🌐 Frontend Development**  
